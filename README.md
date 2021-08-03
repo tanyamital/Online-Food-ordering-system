@@ -15,6 +15,12 @@ BILLING SECTION –
 In this section, the food items ordered are displayed. After ordering is done, on clicking the “Total Bill” button the total amount is displayed with 18% GST. After clicking the “Done” button a message box is displayed confirming the order.
 This application is based on java programming language which is a platform independent language and can run in any of the operating environments. We just need Java Virtual Machine to be installed on our systems. 
 
+Screenshots:
+
+![image](https://user-images.githubusercontent.com/56966861/128045061-e38f8511-00df-4fb2-b97c-3d164aa34315.png)
+![image](https://user-images.githubusercontent.com/56966861/128045103-176b1ae8-7268-40be-997f-3f7a975261fa.png)
+![image](https://user-images.githubusercontent.com/56966861/128045133-3f9b6333-9f52-4b2b-a87f-6d27cf572b28.png)
+
  
 
 
